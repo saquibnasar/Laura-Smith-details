@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Laura-Smith-details/static/css/main.9b46c799.css",
+    "main.js": "/Laura-Smith-details/static/js/main.01fd3f23.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Laura-Smith-details/static/js/787.28cb0dcd.chunk.js",
+    "static/media/image.png": "/Laura-Smith-details/static/media/image.a47159f8e75eec5bbe14.png",
+    "index.html": "/Laura-Smith-details/index.html",
+    "main.9b46c799.css.map": "/Laura-Smith-details/static/css/main.9b46c799.css.map",
+    "main.01fd3f23.js.map": "/Laura-Smith-details/static/js/main.01fd3f23.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Laura-Smith-details/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9b46c799.css",
+    "static/js/main.01fd3f23.js"
+  ]
+}
