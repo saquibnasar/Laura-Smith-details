@@ -1,0 +1,85 @@
+@import "./font.scss";
+$fs-15: 15px;
+$fs-10: 10px;
+$fs-14: 14px;
+$fs-16: 16px;
+$fs-13: 13px;
+$light-gray: #f3bf99;
+$lh-15: 15px;
+$light-white: #dcdcdc;
+$blue: #5093e2;
+$white: #fff;
+.mt-1 {
+  margin-top: 0.5rem;
+}
+.mt-3 {
+  margin-top: 1rem;
+}
+.mt-27 {
+  margin-top: 1.6875rem;
+}
+.fs-15 {
+  font-size: $fs-15;
+}
+.fs-10 {
+  font-size: $fs-10;
+}
+.fs-14 {
+  font-size: $fs-14;
+}
+.fs-13 {
+  font-size: $fs-13;
+}
+.fs-16 {
+  font-size: $fs-16;
+}
+.light-gray {
+  color: $light-gray;
+}
+.light-white {
+  color: $light-white;
+}
+.white {
+  color: $white !important;
+}
+.blue {
+  background: $blue !important;
+}
+.lh-15 {
+  line-height: $lh-15;
+}
+.fw-400 {
+  font-weight: 400;
+}
+.fw-700 {
+  font-weight: 700;
+}
+.btn {
+  background: #ffffff;
+  border: 1px solid #d1d5db;
+  box-sizing: border-box;
+  box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.05);
+  border-radius: 6px;
+  padding: 9px 26px;
+  a {
+    text-decoration: none;
+    color: #374151;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+  }
+  img {
+    margin-right: 0.5rem;
+  }
+}
+.d-flex {
+  display: flex;
+}
+.justify-space-evenly {
+  justify-content: space-evenly;
+}
+.padding {
+  padding-inline: 94px;
+}
