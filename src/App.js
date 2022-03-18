@@ -13,7 +13,7 @@ function App() {
           <Header />
           <div className="d-flex justify-space-evenly mt-3">
             <Switch>
-              <Route exact path="/Laura-Smith-details">
+              <Route exact path="/Laura-Smith-details/">
                 <Home />
               </Route>
               <Route exact path="/email">
